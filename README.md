@@ -27,4 +27,5 @@ It could be better with:
   <li>Showing Cards images instead of just the numbers</li>
   <li>Arrange layout and fonts for better look</li>
   <li>Correct game logic to include player choice on value of the ace card (1 or 11)</li>
+  <li>Responsive design</li>
 </ul>
