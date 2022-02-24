@@ -1,14 +1,18 @@
 # scrimba-blackjack
 
-Follow along tutorial from scrimba's front-end developer career path , module 3 "code a BlackJack game" it was a good refresher on subject like
+Follow along tutorial from scrimba's front-end developer career path , module 3 "code a BlackJack game" it was a good refresher on subjects like
 
 
 <ul>
   <li>primitive datatypes</li>
   <li>complex datatypes, Arrays and Objects</li>
   <li>Function basics</li>
+  <li>Return statements</li>
   <li>For loops</li>
+  <li>if else if else</li>
   <li>Logical operator && and ||</li>
+  <li>Comparaison operator</li>
+  <li>Math object</li>
   <li>Overal a really good introductory course on JS</li>
 </ul>
 
