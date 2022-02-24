@@ -16,7 +16,7 @@ Follow along tutorial from scrimba's front-end developer career path , module 3 
   <li>Overal a really good introductory course on JS</li>
 </ul>
 
-i started adding my own modifications to go further as :
+I started adding my own modifications to go further as :
 
 <ul>
   <li>Adding logic to deduce player chips at each new games</li>
